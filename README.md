@@ -7,6 +7,8 @@ The code is private because the project is still in progress and a competion wit
 
 **What is implemented :**
 
+  -> The game itself playable in the shell
+
   -> Theorical openings System
   
   -> MinMax alpha-beta with a complex heuristic
