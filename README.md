@@ -8,4 +8,5 @@ The code is private because the project is still in progress and a competion wit
 What is implemented :
 
   -> Theorical openings System
+  
   -> MinMax alpha-beta with a complex heuristic
