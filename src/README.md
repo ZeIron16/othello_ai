@@ -1,3 +1,3 @@
 # Program
 
-**Put "opening.txt" in the same directory as other files.**
+**Put "overtures2.txt" in the same directory as other files.**
