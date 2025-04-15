@@ -1,0 +1,2 @@
+cd Egaroucid/bin/
+./exec
