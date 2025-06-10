@@ -1,0 +1,14 @@
+# Environnement virtuel
+venv/
+
+# Fichiers compilés Python
+__pycache__/
+*.py[cod]
+
+# Fichiers de log ou temporaires
+*.log
+*.tmp
+*Zone.Identifier
+
+# Fichiers système
+.DS_Store
