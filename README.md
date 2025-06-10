@@ -1,4 +1,7 @@
-# Project S6 Group 11B: OthelloMora
+![ ](Banner.png)
+
+
+# OthelloMora
 
 This is the S6 project from EURECOM: an Othello game in the theme of Harry Potter.
 
